@@ -7,7 +7,7 @@ Minhas softskills: Resiliente, flexível, gosto de desafios, sou extrovertido, d
 Muito obrigado por essa visita ao meu perfil, esse é um pouco sobre mim.
 
 <div align="center">
-  <a href="https://github.com/rafaballerini">
+  <a href="https://github.com/iagovieir">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iagovieir&show_icons=true&theme=darck&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iagovieir&layout=compact&langs_count=7&theme=darck"/>
 </div>
